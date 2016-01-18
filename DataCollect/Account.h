@@ -12,7 +12,7 @@ public:
 protected:
 private:
 	AccountConfig * accountConfig=NULL;
-	111
+	
 };
 
 #endif
